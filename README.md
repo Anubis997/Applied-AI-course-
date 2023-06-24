@@ -1,4 +1,4 @@
-# "Interpretable Classification of Cancer Genetic Mutations using General Linear Models with Text-Based Clinical Literature"
+# "Classification of Cancer Genetic Mutations using General Linear Models with Text-Based Clinical Literature"
 
 The dataset provided by Memorial Sloan Kettering Center consists of 3,321 data points and 5 features. The task is to classify mutations based on these features into eight different strains.
 
